@@ -1,0 +1,28 @@
+/*문자 선택자
+p::first-letter {
+  color: red; font-size: 2em;
+}
+
+p::first-line {
+  background-color: blue;
+}*/
+
+/*문자 앞 숫자 카운트
+p {
+  counter-increment: rint;
+}
+
+p::before {
+  content: counter(rint) "..";
+}
+
+p::after {
+  content: "_" attr(data-page)
+  " page";
+}
+
+  p::first-letter {
+    font-size: 3em;
+  }*/
+
+  <

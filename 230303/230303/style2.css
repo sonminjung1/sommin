@@ -1,0 +1,9 @@
+/*반응 문자 선택자
+p::selection {
+  background-color: black;
+  color: aliceblue;
+} */
+
+input:not([type=password]) {
+  background-color: red;
+}

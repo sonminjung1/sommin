@@ -1,0 +1,54 @@
+/* #my-box .text {
+  color: black;
+}
+
+.black {
+  color: red;
+}
+
+.important-black {
+  color: rgb(255, 124, 124) !important
+}
+!important 는 예외적으로 사용하고싶을 때 사용하기!
+우선순위가 무조건 얘로 쏠림 */
+
+/*#box1 {
+  width: 200px; height: 200px;
+  background-color: red;
+}
+
+#box2 {
+  width: 50vw; height: 30vh;
+  background-color: red;
+} */
+
+/*p:nth-child(1) {
+
+}
+
+p:nth-child(2) {
+  font-size: 1em;
+}
+
+
+p:nth-child(3) {
+  font-size: 1.5em;
+}
+
+
+p:nth-child(4) {
+  font-size: 2em;
+}*/
+
+
+p.text1 {
+  color: red;
+}
+/*폰트 투명도*/
+p.text2 {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+p.text3{
+  color: #ffffff;
+}
