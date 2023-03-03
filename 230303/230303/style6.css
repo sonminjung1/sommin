@@ -1,0 +1,12 @@
+#box  {
+  width: 500px;
+  text-align: center;
+
+  /* border-width: 1px;
+  border-style: solid;
+  border-color: aqua; */
+
+
+border: 10px dashed aqua;
+border-radius: 50px;
+}
