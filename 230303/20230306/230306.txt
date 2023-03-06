@@ -1,0 +1,24 @@
+link href 1. 절대경로 2. 상대경로 완전 중요!! 구분 잘하기
+
+
+* {
+  margin: 0 auto;
+}
+
+--------------
+그라데이션 css 설정
+
+  background: linear-gradient(to bottom, rgba(240,249,255,1) 0%,rgba(203,235,255,1) 27%,rgba(243,204,255,1) 53%,rgba(161,219,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+사이트 https://www.colorzilla.com/gradient-editor/
+
+
+
+● position
+- static
+- relative
+- absolute
+- fixed
+
+z-index - 높은 픽셀일수록 맨 위로 옴
+  overflow-y: scroll;

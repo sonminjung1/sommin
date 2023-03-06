@@ -1,0 +1,15 @@
+body {
+  width: 900px;
+  margin: 0 auto;
+}
+#  #wrap {
+  overflow: hidden;
+}
+#aside {
+  width: 200px; 
+  float: left;
+}
+#section {
+  width: 700px; 
+  float: left;
+}

@@ -1,0 +1,30 @@
+* {
+  text-align: center;
+}
+h3 {
+  text-align: left;
+  padding-left: 400px;
+}
+
+.radio {
+  text-align: right;
+  padding left: 600px;
+  list-style: none;
+}
+
+.butto.foot {
+  text-align: center;
+
+}
+
+.box {
+  width: 100px;
+  height: 50px;
+  border: solid black
+  resize: none;
+}
+
+.top1 {
+  text-align: left;
+  padding-left: 430px;
+}
