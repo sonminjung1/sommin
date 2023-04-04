@@ -1,0 +1,36 @@
+● 변수 작성 시 유의사항
+1. 변수 선언은 3개가 있다
+> var / let / const
+> let은 수정 가능 (변수)/ const는 값을 못바꿈! (상수)
+
+● 변수는 창조변수라고 말하고 그걸 객체라고 한다
+객체 = 속성(Attribute) + 기능(Method)
+
+
+● [객체종류]
+① JavaScript의 객체는 크게 내장 객체 / 브라우저 객체 모델 (BOM) / 문서 객체 모델 (DOM) 3종류!
+
+② 내장 객체 (*Built-in Object) : JavaScript에 내장되어 있는 객체 => 일종의 템플릿 객체
+
+③ 브라우저 객체 모델 (*Browser Object Model) : 웹 브라우저에 포함된 객체 ex. window, screen, location 등
+
+★★★④ 문서 객체 모델 (*Document Object Model) : HTML 문서를 수정하거나 속성을 바꿀 때 사용가능 객체★★★
+> 자바스크립트에서 document로 시작한다는건 html에서 무엇을 건든다는것!
+
+
+● 변수에 들어갈 수 있는 값 !
+>기본형
+- 숫자
+- 문자
+- 논리
+- 빈공간
+- 오류
+
+>복합형
+- 여러개의 정보
+- 객체
+
+---> 문자인지 숫자인지 알 고 싶을 때 크롬에 쳐보기
+typeof
+ num1
+'number'
