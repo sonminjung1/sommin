@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 30px;
+}
+form {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  gap: 10px;
+}
+input, button {
+  border: 1px solid lightgray;
+  border-radius: 8px;
+}
+input {
+  width: 100%;
+  padding: 0 15px;
+  outline: none;
+}
+button {
+  width: 100px;
+  background-color: coral;
+  color: aliceblue;
+  cursor: pointer;
+}
+button:hover {
+  background-color: rgb(223, 113, 72);
+}
+ul, li {
+  align-items: center;
+  list-style: none;
+  display: flex;
+  margin: 20px 10px;
+}
+li {
+  border-bottom: 1px dotted rgb(254, 196, 172);
+  margin-bottom: 7px;
+  font-weight: bold;
+  padding-bottom: 7px;  
+}
+span {
+  width: 90%;
+}
