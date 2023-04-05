@@ -1,0 +1,26 @@
+#container {
+  width: 500px;
+  margin: 10px auto;
+}
+form fieldset {
+  margin-bottom: 25px;
+}
+form legend {
+  font-size: 15px;
+  font-weight: 600;
+}
+ul, li {
+  list-style: none;
+  /* border: 1px solid red; */
+  margin: 15px 0;
+  font-size: 14px;
+}
+label.reg {
+  display: inline-block;
+  font-size: 14px;
+  width: 110px;
+  color: #390;
+  font-weight: 600;
+  text-align: right;
+  margin-right: 10px;
+}

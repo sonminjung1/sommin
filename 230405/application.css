@@ -1,0 +1,47 @@
+#container {
+  /* border: 1px solid red; */
+  width: 500px;
+  margin: 20px auto;
+}
+h1 {
+  font-size: 2.5em;
+  text-align: center;
+}
+form {
+  margin-top: 50px;
+}
+input {
+  width: 370px;
+  padding: 12px;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  font-size: 20px;
+  outline: none;
+}
+button {
+  width: 100px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 70px;
+  font-size: 20px;
+  cursor: pointer;
+}
+hr {
+  visibility: hidden;
+}
+#nameList p {
+  font-size: 20px;
+  text-indent: 50px;
+  line-height: 1.5em;
+}
+.del {
+  float: right;
+
+  display: inline-block;
+  width: 100px;
+}
+
+.del:hover {
+  color: #c8c8c8;
+  cursor: pointer;
+}
