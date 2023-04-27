@@ -1,0 +1,15 @@
+#container {
+  width: 300px;
+  margin: 20px auto;
+}
+.active {
+  background-color: #222;
+  color: aliceblue;
+  padding: 10px 25px;
+}
+.done {
+  text-decoration: line-through;
+  color: #999;
+  font-size: .8em;
+  font-style: italic;
+}
