@@ -1,0 +1,38 @@
+body {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  font-size: 1.5rem;
+}
+label {
+  margin-right: 20px;
+}
+input {
+  width: 60px;
+  height: 30px;
+  text-align: center;
+  margin-right: 10px;
+  border: none;
+  border-bottom: 1px solid #ccc;
+}
+#btn {
+  padding: 10px;
+  cursor: pointer;
+
+}
+#result {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 500px;
+  margin-top: 50px;
+  border-radius: 15px;  
+}
+p:nth-child(2),
+p:nth-child(3) {
+  font-size: 1.5em;
+  font-weight: bold;
+}
